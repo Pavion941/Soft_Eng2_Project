@@ -1,4 +1,0 @@
-#Mon May 04 16:38:18 CDT 2020
-base.0=C\:\\Users\\aslan\\OneDrive\\Desktop\\Soft_Eng2_Project\\Soft_eng_2\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
